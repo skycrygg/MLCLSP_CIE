@@ -1,0 +1,10 @@
+..\test\RF_domain_L\classep\allFiles\classep_G5011200.lp	8503400.980
+..\test\RF_domain_L\classep\allFiles\classep_G5012200.lp	7745245.036
+..\test\RF_domain_L\classep\allFiles\classep_G5013200.lp	6664231.000
+..\test\RF_domain_L\classep\allFiles\classep_G5014200.lp	7612970.860
+..\test\RF_domain_L\classep\allFiles\classep_G5015200.lp	8049033.907
+..\test\RF_domain_L\classep\allFiles\classep_G5021200.lp	8497155.507
+..\test\RF_domain_L\classep\allFiles\classep_G5022200.lp	7711480.500
+..\test\RF_domain_L\classep\allFiles\classep_G5023200.lp	6910465.500
+..\test\RF_domain_L\classep\allFiles\classep_G5024200.lp	7424078.538
+..\test\RF_domain_L\classep\allFiles\classep_G5025200.lp	7919972.031

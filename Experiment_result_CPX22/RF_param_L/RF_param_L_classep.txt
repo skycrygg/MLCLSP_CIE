@@ -1,0 +1,10 @@
+..\test\RF_param_L\classep\allFiles\classep_G5011200.lp	8729537.330	RF_param_119~~24=8729537.330	RF_param_159~~24=8765545.330	RF_param_239~~24=8749960.847	RF_param_95~~24=8765545.330	
+..\test\RF_param_L\classep\allFiles\classep_G5012200.lp	8693944.000	RF_param_119~~24=8693944.000	RF_param_159~~24=8765280.000	RF_param_239~~24=8742954.260	RF_param_95~~24=8765280.000	
+..\test\RF_param_L\classep\allFiles\classep_G5013200.lp	7927332.000	RF_param_119~~24=8070937.500	RF_param_159~~24=7927332.000	RF_param_239~~24=8210044.000	RF_param_95~~24=8765280.000	
+..\test\RF_param_L\classep\allFiles\classep_G5014200.lp	8697896.890	RF_param_119~~25=8697896.890	RF_param_159~~25=8765496.930	RF_param_239~~25=8741850.930	RF_param_95~~25=8765496.930	
+..\test\RF_param_L\classep\allFiles\classep_G5015200.lp	8693128.000	RF_param_119~~24=8693128.000	RF_param_159~~24=8765280.000	RF_param_239~~24=8749697.130	RF_param_95~~24=8765280.000	
+..\test\RF_param_L\classep\allFiles\classep_G5021200.lp	8724979.665	RF_param_119~~25=8724979.665	RF_param_159~~25=8764386.075	RF_param_239~~25=8750365.980	RF_param_95~~25=8761530.852	
+..\test\RF_param_L\classep\allFiles\classep_G5022200.lp	8647846.000	RF_param_119~~24=8647846.000	RF_param_159~~24=8765280.000	RF_param_239~~24=8744375.260	RF_param_95~~24=8765280.000	
+..\test\RF_param_L\classep\allFiles\classep_G5023200.lp	7860572.000	RF_param_119~~24=7860572.000	RF_param_159~~24=8045329.500	RF_param_239~~24=8741631.000	RF_param_95~~24=8765280.000	
+..\test\RF_param_L\classep\allFiles\classep_G5024200.lp	8672924.290	RF_param_119~~24=8672924.290	RF_param_159~~24=8767691.970	RF_param_239~~24=8744042.970	RF_param_95~~24=8767691.970	
+..\test\RF_param_L\classep\allFiles\classep_G5025200.lp	8467479.130	RF_param_119~~24=8467479.130	RF_param_159~~24=8764283.150	RF_param_239~~24=8752386.570	RF_param_95~~24=8580326.070	
