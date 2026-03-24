@@ -1,0 +1,10 @@
+..\test\APFO_Corridor\classep\allFiles\classep_G5011200.lp	300	7048064.720	317.000	RF_Best~31=8427127.250
+..\test\APFO_Corridor\classep\allFiles\classep_G5012200.lp	300	5977667.536	318.000	RF_Best~32=7363597.046
+..\test\APFO_Corridor\classep\allFiles\classep_G5013200.lp	300	5418515.667	318.000	RF_Best~31=6371173.000
+..\test\APFO_Corridor\classep\allFiles\classep_G5014200.lp	300	6039498.518	319.000	RF_Best~31=7367871.692
+..\test\APFO_Corridor\classep\allFiles\classep_G5015200.lp	300	6390370.081	318.000	RF_Best~31=8143223.115
+..\test\APFO_Corridor\classep\allFiles\classep_G5021200.lp	300	7253623.402	319.000	RF_Best~32=8267788.239
+..\test\APFO_Corridor\classep\allFiles\classep_G5022200.lp	300	6085715.441	317.000	RF_Best~31=7418000.015
+..\test\APFO_Corridor\classep\allFiles\classep_G5023200.lp	300	5432030.000	322.000	RF_Best~30=6501084.000
+..\test\APFO_Corridor\classep\allFiles\classep_G5024200.lp	300	6139972.363	317.000	RF_Best~30=7419100.093
+..\test\APFO_Corridor\classep\allFiles\classep_G5025200.lp	300	6168744.283	317.000	RF_Best~32=7316522.743
